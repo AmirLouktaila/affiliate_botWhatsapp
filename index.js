@@ -7,7 +7,7 @@ const app = express();
 const PORT = 3100;
 
 // ✨ عنوان الويب هوك الخاص بك
-const WEBHOOK_URL = 'https://saibrasoft.com/webhook';
+const WEBHOOK_URL = 'https://yout_link.com/webhook';
 
 app.use(express.json());
 
